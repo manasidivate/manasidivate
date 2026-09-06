@@ -12,7 +12,9 @@ I enjoy learning by building practical applications and strengthening my underst
 
 - **Language:** Python
 - **Backend:** Flask, REST API Fundamentals
-- **Databases:** PostgreSQL, MySQL, SQL
+- **Databases:** PostgreSQL, MySQL
+- **Query Language:** SQL
+- **ORM:** SQLAlchemy
 - **Caching & Background Processing:** Redis, RQ
 - **Tools:** Git, GitHub, Docker
 
