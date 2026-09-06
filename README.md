@@ -30,5 +30,5 @@ Built to strengthen Python programming and application development fundamentals.
 
 ## 🔗 Connect
 
-- LinkedIn: www.linkedin.com/in/manasi-d-648a30401/
+- LinkedIn: linkedin.com/in/manasi-d-648a30401/
 - Email: manasidivate12@gmail.com
