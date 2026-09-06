@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Manasi Divate 👋
 
-<!--
-**manasidivate/manasidivate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate focused on **Python and Backend Development**.
+I enjoy learning by building practical applications and strengthening my understanding of software development fundamentals.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Building and improving backend applications**
+- **Deepening my backend development skills through hands-on projects**
+
+## Technical Focus
+
+- **Language:** Python
+- **Backend:** Flask, REST API Fundamentals
+- **Databases:** PostgreSQL, MySQL, SQL
+- **Caching & Background Processing:** Redis, RQ
+- **Tools:** Git, GitHub, Docker
+
+## Featured Projects
+
+### URL Shortener + Click Analytics
+A backend-focused URL shortening system built with Flask and PostgreSQL, with Redis caching and asynchronous click-event processing using RQ.
+Currently being extended with analytics and additional URL management features.
+
+### Student Grade Management System CLI
+A Python-based command-line application for managing student records, marks, averages, grades, reports, and student deletion.
+Built to strengthen Python programming and application development fundamentals.
+
+## Connect
+
+- LinkedIn
+- Email
