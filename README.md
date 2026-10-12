@@ -3,7 +3,7 @@
 
 # Hi, I'm Manasi Divate 👋
 
-**Computer Science Undergraduate | Software Development**
+**CSE Student | Software Development**
 
 *Python · Backend Development · Software Engineering*
 
