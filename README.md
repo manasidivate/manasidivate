@@ -52,4 +52,4 @@ A Python command-line application for managing student records, marks, averages,
 
 - [LinkedIn](https://www.linkedin.com/in/manasi-d-648a30401/)
 
-I enjoy building practical software solutions, refining my approach through implementation, and growing as a software engineer.
+I enjoy building practical software solutions and applying software engineering concepts through hands-on projects.
